@@ -34,6 +34,6 @@ Each certificate is linked above. Click on the certificate's name to view or dow
 
 ## Additional Information
 
-If you have any questions or would like to connect, feel free to reach out to me on [linkedin.com/in/mayank-kumar-431880135/]
+If you have any questions or would like to connect, feel free to reach out to me on [linkedin.com/in/mayank-kumar-431880135/](https://www.linkedin.com/in/mayank-kumar-431880135/)
 
 
