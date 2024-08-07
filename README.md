@@ -30,6 +30,7 @@ Each certificate is linked above. Click on the certificate's name to view or dow
 - [Forage](#)
 - [IBM](#)
 - [IEEE](#)
+- [Internshala]
 
 ## Additional Information
 
