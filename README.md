@@ -8,10 +8,12 @@ Welcome to my GitHub repository where I showcase my certifications in various do
 4. [Data Visualization with Python Certificate](Data%20visualization%20certificate.pdf)
 5. [Excel Skills Job Simulation Certificate](Excel%20certificate.pdf)
 6. [Beginning with Data Science Certificate](IEEE%20Certificate.jpg)
-7. [ Mean Stack Developer Certificate](MEAN%20Stack%20certificate.pdf)
+7. [Mean Stack Developer Certificate](MEAN%20Stack%20certificate.pdf)
 8. [Introduction to Programming Using Python Certificate](https://www.coursera.org/account/accomplishments/certificate/SFGNSE5VL3BJ)
 9. [Perform Sentiment Analysis with scikit-learn Certificate](https://coursera.org/verify/APW2E7TQX72F)
 10. [Supervised Machine Learning: Regression and Classification Certificate](https://coursera.org/verify/BYG2MYQB5AZB)
+11. [SQL Certificate](https://trainings.internshala.com/verify-certificate/?certificate_number=e8as8xscr7s)
+12. [Excel Certificate](https://trainings.internshala.com/verify-certificate/?certificate_number=3rrvowc3o3w)
 
 ## About
 
