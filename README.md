@@ -17,7 +17,8 @@ Welcome to my GitHub repository where I showcase my certifications in various do
 13. [Tableau Certificate](https://trainings.internshala.com/verify-certificate/?certificate_number=fyne78ozvhb)
 14. [Machine Learning Certificate](https://trainings.internshala.com/verify-certificate/?certificate_number=57iftbmo202)
 15. [Interview Preparation Certificate](https://trainings.internshala.com/verify-certificate/?certificate_number=5puebltpvk3)
-16. 
+16. [General Aptitiude Certificate](https://trainings.internshala.com/verify-certificate/?certificate_number=iajwbn7yyqw)
+    
 
 ## About
 
