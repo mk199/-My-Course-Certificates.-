@@ -14,6 +14,8 @@ Welcome to my GitHub repository where I showcase my certifications in various do
 10. [Supervised Machine Learning: Regression and Classification Certificate](https://coursera.org/verify/BYG2MYQB5AZB)
 11. [SQL Certificate](https://trainings.internshala.com/verify-certificate/?certificate_number=e8as8xscr7s)
 12. [Excel Certificate](https://trainings.internshala.com/verify-certificate/?certificate_number=3rrvowc3o3w)
+13. [Tableau Certificate](https://trainings.internshala.com/verify-certificate/?certificate_number=fyne78ozvhb)
+14. 
 
 ## About
 
